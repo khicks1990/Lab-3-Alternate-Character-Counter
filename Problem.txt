@@ -1,0 +1,1 @@
+Write a method that uses recursion to count the number of times a specific character occurs in an array of characters. Demonstrate the method in a program.
